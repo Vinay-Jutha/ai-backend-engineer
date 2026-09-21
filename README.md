@@ -1,2 +1,1 @@
-# ai-backend-engineer
-My journey to becoming a production-grade AI and backend Engineer.
+A from-scratch engineering journey toward production-grade backend mastery and AI engineering — learning how to design, build, secure, scale, deploy, and maintain real-world backend systems, then integrating modern AI capabilities to build intelligent applications, followed by deeper ML, deep learning, and AI specialization.
